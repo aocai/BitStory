@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitStory</string>
+    <string name="new_story">Start a new story</string>
+    <string name="create_room">Create a room</string>
+    <string name="join_room">Join a room</string>
+    <string name="round_timer">Round timer</string>
+    <string name="length_limit">Length limit</string>
+    <string name="match">Match!</string>
+    <string name="room_password">Room Password:</string>
+    <string name="create">Create!</string>
+    <string name="room_id">Room ID:</string>
+    <string name="room_password_on_join">Room password:</string>
+    <string name="join">Join!</string>
+    <string name="send">Send</string>
+</resources>
